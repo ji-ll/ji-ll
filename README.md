@@ -1,4 +1,5 @@
-### Hi there 👋
+#### photo & video artist 
+💜 Mastodon & Pixelfed
 
 <!--
 **ji-ll/ji-ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
